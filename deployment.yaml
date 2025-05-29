@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: uttamgiri32/test-git-sample:11
+      - image: uttamgiri32/test-git-sample:12
         name: flaskdemo
         resources: {}
 status: {}
